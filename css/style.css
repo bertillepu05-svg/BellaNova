@@ -152,8 +152,9 @@ img {
 }
 
 .nav-logo-img {
-    height: 40px;
+    height: 20px;
     width: auto;
+    
 }
 
 .brand-text {
@@ -232,7 +233,7 @@ img {
 }
 
 .offcanvas-logo-img {
-    height: 30px;
+    height: 20px;
     width: auto;
 }
 
