@@ -1,9 +1,7 @@
 /* ---------- VARIABLES CSS ---------- */
 :root {
-    --bordeaux: #7B2E3A;
-    --champagne: #D4BC9A;
+    --bordeaux: #a44251;
     --rose-poudre: #F6DBDE;
-    --creme: #F7EFE6;
     --rose-gold: #C78B7A;
     --blanc: #FFFFFF;
     --noir: #1A1A1A;
@@ -35,7 +33,7 @@ html {
 body {
     font-family: var(--font-moderne);
     color: var(--noir);
-    background-color: var(--creme);
+    background-color: var(--rose-poudre);
     overflow-x: hidden;
     line-height: 1.7;
 }
@@ -58,6 +56,7 @@ img {
 
 .section-padding {
     padding: 100px 0;
+    background-color: var(--blanc);
 }
 
 .apropos-section {
@@ -133,7 +132,7 @@ img {
 
 /* ========== NAVIGATION ========== */
 #mainNav {
-    background-color: var(--creme);
+    background-color: var(--blanc);
     backdrop-filter: blur(15px);
     -webkit-backdrop-filter: blur(15px);
     box-shadow: var(--shadow-sm);
@@ -152,7 +151,7 @@ img {
 }
 
 .nav-logo-img {
-    height: 20px;
+    height: 30px;
     width: auto;
     
 }
@@ -219,7 +218,7 @@ img {
 }
 
 .offcanvas-header {
-    background-color: var(--rose-poudre);
+    background-color: var(--blanc);
     border-bottom: 1px solid var(--gris-moyen);
 }
 
@@ -233,7 +232,7 @@ img {
 }
 
 .offcanvas-logo-img {
-    height: 20px;
+    height: 30px;
     width: auto;
 }
 
@@ -513,7 +512,7 @@ img {
 }
 
 .value-card {
-    background: var(--creme);
+    background: var(--rose-poudre);
     border-radius: 20px;
     padding: 40px 20px;
     box-shadow: var(--shadow-sm);
@@ -776,6 +775,13 @@ img {
     color: var(--blanc);
 }
 
+
+.footer-logo-img {
+    height: 40px;
+    width: auto;
+    padding-right: 10px;
+}
+
 .footer-desc {
     opacity: 0.8;
     font-size: 0.95rem;
@@ -785,7 +791,7 @@ img {
     font-family: var(--font-moderne);
     font-weight: 600;
     margin-bottom: 20px;
-    color: var(--champagne);
+    color: var(--blanc);
     text-transform: uppercase;
     letter-spacing: 1px;
     font-size: 1rem;
