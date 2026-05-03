@@ -214,7 +214,7 @@ img {
 
 /* ---------- OFFCANVAS (MENU MOBILE) ---------- */
 .offcanvas {
-    background-color: var(--creme);
+    background-color: var(--bordeaux);
 }
 
 .offcanvas-header {
@@ -237,7 +237,7 @@ img {
 }
 
 .offcanvas-body .nav-link {
-    color: var(--noir) !important;
+    color: var(--blanc) !important;
     font-size: 1.1rem;
     padding: 15px 20px !important;
     border-bottom: 1px solid var(--gris-clair);
@@ -247,8 +247,9 @@ img {
 
 .offcanvas-body .nav-link:hover,
 .offcanvas-body .nav-link.active {
-    color: var(--rose-gold) !important;
-    background-color: var(--gris-clair);
+    color: var(--bordeaux) !important;
+    background-color: var(--rose-poudre);
+    font-weight: 700;
 }
 
 /* ========== HERO SECTION (#accueil) ========== */
