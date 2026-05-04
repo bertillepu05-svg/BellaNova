@@ -809,6 +809,7 @@ img {
 .footer-links li a {
     color: rgba(255,255,255,0.7);
     transition: var(--transition);
+    
 }
 
 .footer-links li a:hover {
@@ -824,7 +825,7 @@ img {
 .site-footer p {
     opacity: 0.8;
     margin-bottom: 8px;
-    font-size: 0.95rem;
+
 }
 
 .site-footer p i {
@@ -990,6 +991,8 @@ img {
         flex: 1;
         padding: 0 10px;
     }
-   
+    .site-footer p {font-size: 10px;}
+    .footer-links li a {font-size: 10px;}
+    .site-footer h5 {font-size: 10px;}
 }
 
