@@ -109,7 +109,6 @@ bella-nova/
 - Navigation fluide (smooth scroll)
 - Témoignages clients
 - Section équipe et valeurs
-- Optimisation SEO (meta description, balisage sémantique)
 
 ---
 
