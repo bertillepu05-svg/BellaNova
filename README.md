@@ -1,6 +1,6 @@
 # 💄 Bella Nova — Beauty & Care
 
-![Bella Nova](images/logo-principal.png)
+![Bella Nova](images/logos/logo-principal.png)
 
 **Institut de beauté haut de gamme à Kinshasa (RDC)**
 
@@ -10,7 +10,7 @@ Site vitrine élégant et responsive présentant les services d'un institut de b
 
 ## ✨ Aperçu
 
-![Aperçu du site](images/hero-bg.jpeg)
+![Aperçu du site](images/projet/hero-bg.jpeg)
 
 ---
 
@@ -38,6 +38,7 @@ Site vitrine élégant et responsive présentant les services d'un institut de b
 ---
 
 ## 📁 Structure du projet
+
 bella-nova/
 ├── index.html          # Page principale
 ├── css/
@@ -90,8 +91,8 @@ bella-nova/
 
 | Couleur | Code hex |
 |---------|----------|
-| Bordeaux | `#7B2E3A` |
-| Champagne | `#D4BC9A` |
+| Bordeaux | `#A44251` |
+| Rose | `#E28087` |
 | Rose poudre | `#F6DBDE` |
 | Crème | `#F7EFE6` |
 | Rose gold | `#C78B7A` |
@@ -117,7 +118,6 @@ bella-nova/
 
 Le site est déployé sur **Netlify** avec déploiement continu depuis GitHub.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/deploy-status)](https://app.netlify.com/sites/bellanova/deploys)
 
 ### Mettre à jour le site
 
