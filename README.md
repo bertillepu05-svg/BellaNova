@@ -1,6 +1,6 @@
 # 💄 Bella Nova — Beauty & Care
 
-![Bella Nova](images/logos/logo-principal.png)
+![Bella Nova](images/logos/logo-secondaire.png)
 
 **Institut de beauté haut de gamme à Kinshasa (RDC)**
 
@@ -39,6 +39,7 @@ Site vitrine élégant et responsive présentant les services d'un institut de b
 
 ## 📁 Structure du projet
 
+```bash
 bella-nova/
 ├── index.html          # Page principale
 ├── css/
@@ -84,7 +85,7 @@ bella-nova/
 │       └── equipe3.jpg
 └── README.md
 
-
+```
 ---
 
 ## 🎨 Palette de couleurs
@@ -138,7 +139,8 @@ Le déploiement se fait automatiquement.
 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/TON-USERNAME/bella-nova.git
+git clone https://github.com/bertillepu05-svg
+git
 ```
 
 1. Ouvrir le dossier
