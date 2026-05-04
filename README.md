@@ -137,7 +137,6 @@ Le déploiement se fait automatiquement.
 
 ```bash
 git clone https://github.com/bertillepu05-svg/BellaNova
-git
 ```
 
 1. Ouvrir le dossier
