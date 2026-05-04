@@ -1,7 +1,5 @@
 # 💄 Bella Nova — Beauty & Care
 
-![Bella Nova](images/logos/logo-secondaire.png)
-
 **Institut de beauté haut de gamme à Kinshasa (RDC)**
 
 Site vitrine élégant et responsive présentant les services d'un institut de beauté : manucure, pédicure, maquillage, sourcils et soins visage.
@@ -139,7 +137,7 @@ Le déploiement se fait automatiquement.
 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/bertillepu05-svg
+git clone https://github.com/bertillepu05-svg/BellaNova
 git
 ```
 
